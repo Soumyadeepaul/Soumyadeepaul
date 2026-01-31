@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumyadeepaul/Soumyadeepaul/main/assets/coder-line.png" width="700"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Soumyadeep Paul</h1>
 <h3 align="center">
   CS Engineer | Agentic AI | Consistent Problem Solver
@@ -13,11 +18,6 @@
 </p>
 
 <hr/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
-</p>
-
 
 <h3>👨‍💻 About Me</h3>
 
