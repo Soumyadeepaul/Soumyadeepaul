@@ -17,7 +17,7 @@
 <h3>👨‍💻 About Me</h3>
 
 - 🔥 1000+ GitHub contributions in the last year  
-- 🧠 700+ DSA problems solved (primarily in C++)  
+- 🧠 700+ DSA problems solved (primarily in C++, Python)  
 - 🤖 Strong interest in **Agentic AI, Deep Learning, and System Design**  
 - 📈 Focused on **long-term consistency over short-term hype**
 
@@ -25,9 +25,9 @@
 
 <h3>🔭 Current Work & Interests</h3>
 
-- 🌱 Currently learning **Advanced Deep Learning, Agentic AI, System Design**
+- 🌱 Currently learning **Advanced Deep Learning, Agentic AI, Generative AI, System Design**
 - 👯 Looking to collaborate on **AI / ML projects focused on real-world problem solving**
-- 🤝 Looking for help with **scaling agentic AI systems & evaluation strategies**
+- 🤝 Looking for help with **Scaling Agentic AI systems & evaluation strategies**
 - 💬 Ask me about **DSA, Deep Learning, Agentic AI, Generative AI, GitHub consistency**
 
 ---
@@ -58,24 +58,15 @@
 
 <h3>🛠️ Languages & Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,sklearn,pandas,git,linux,react,nodejs,mongodb,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,sklearn,pandas,react,nodejs,mongodb,mysql,html,css" />
 </p>
 
----
-
-<h3>🏆 GitHub Trophies</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulsoumyadeep&theme=dark&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulsoumyadeep&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulsoumyadeep&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadeepaul&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeepaul&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsoumyadeep&layout=compact&theme=dark"/>
-</p>
