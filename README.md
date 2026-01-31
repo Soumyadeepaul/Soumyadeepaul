@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soumyadeepaul/Soumyadeepaul/main/assets/coder-line.png" width="700"/>
+  <a href="https://storyset.com/work">Work illustrations by Storyset</a>
 </p>
 
 
