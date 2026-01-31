@@ -14,6 +14,11 @@
 
 <hr/>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+</p>
+
+
 <h3>👨‍💻 About Me</h3>
 
 - 🔥 1000+ GitHub contributions in the last year  
@@ -35,9 +40,6 @@
 <h3>📫 How to Reach Me</h3>
 
 - 📧 Email: <b>paulsoumyadeep7@gmail.com</b>  
-- 💼 LinkedIn: https://www.linkedin.com/in/paulsoumyadeep-cse  
-- 🧠 LeetCode: https://leetcode.com/u/paulsoumyadeep7  
-- 📊 Kaggle: https://kaggle.com/soumyadeepaul  
 
 ---
 
