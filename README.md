@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Soumyadeepaul/Soumyadeepaul/main/assets/Codetyping-bro.png"
+    src="https://raw.githubusercontent.com/Soumyadeepaul/Soumyadeepaul/tree/main/assets/Codetyping-bro.png"
     width="650"
     alt="Coding illustration"
   />
