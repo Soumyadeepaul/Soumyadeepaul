@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://github.com/Soumyadeepaul/Soumyadeepaul/blob/main/assests/Codetypingbro.png"
-    width="224"
+    width="256"
     alt="Coding illustration"
   />
 </p>
