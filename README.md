@@ -48,16 +48,17 @@
 
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/paulsoumyadeep-cse" target="_blank">
+  <a href="https://linkedin.com/in/paulsoumyadeep-cse" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://kaggle.com/soumyadeepaul" target="_blank">
+  <a href="https://kaggle.com/soumyadeepaul" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
   </a>
-  <a href="https://www.leetcode.com/paulsoumyadeep7" target="_blank">
+  <a href="https://www.leetcode.com/paulsoumyadeep7" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
 </p>
+
 
 ---
 
