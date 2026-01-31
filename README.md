@@ -1,10 +1,11 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Soumyadeepaul/Soumyadeepaul/assets/Codetyping-bro.png"
+  <img
+    src="https://raw.githubusercontent.com/Soumyadeepaul/Soumyadeepaul/main/assets/Codetyping-bro.png"
     width="650"
     alt="Coding illustration"
   />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Soumyadeep Paul</h1>
 <h3 align="center">
