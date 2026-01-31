@@ -63,7 +63,7 @@
 
 <h3>🛠️ Languages & Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,sklearn,pandas,react,nodejs,mongodb,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,sklearn,pandas,react,nodejs,html,css,mongodb,mysql" />
 </p>
 
 
