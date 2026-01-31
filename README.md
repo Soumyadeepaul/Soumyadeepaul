@@ -71,7 +71,7 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadeepaul&show_icons=true&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadeepaul&theme=github-dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeepaul&theme=dark" />
 </p>
 
