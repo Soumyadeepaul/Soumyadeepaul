@@ -1,13 +1,3 @@
-<p align="center">
-  <img
-    src="https://github.com/Soumyadeepaul/Soumyadeepaul/blob/main/assests/Codetypingbro.png"
-    width="256"
-    alt="Coding illustration"
-  />
-</p>
-
-
-
 <h1 align="center">Hi 👋, I'm Soumyadeep Paul</h1>
 <h3 align="center">
   CS Engineer | Agentic AI | Consistent Problem Solver
@@ -30,6 +20,14 @@
 - 🧠 700+ DSA problems solved (primarily in C++, Python)  
 - 🤖 Strong interest in **Agentic AI, Deep Learning, and System Design**  
 - 📈 Focused on **long-term consistency over short-term hype**
+
+<p align="center">
+  <img
+    src="https://github.com/Soumyadeepaul/Soumyadeepaul/blob/main/assests/Codetypingbro.png"
+    width="256"
+    alt="Coding illustration"
+  />
+</p>
 
 ---
 
