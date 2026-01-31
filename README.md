@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Paul</h1>
 <h3 align="center">
-  CS Engineer | Agentic AI | Consistent Problem Solver
+  CS Engineer | AI Enthusiast | Consistent Problem Solver
 </h3>
 
 <p align="center">
