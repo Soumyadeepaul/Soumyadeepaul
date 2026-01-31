@@ -1,7 +1,10 @@
 <p align="center">
-  <a href="https://storyset.com/work">Work illustrations by Storyset</a>
+  <img 
+    src="https://raw.githubusercontent.com/Soumyadeepaul/Soumyadeepaul/main/assets/Code%20typing-bro.png"
+    width="650"
+    alt="Coding illustration"
+  />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Soumyadeep Paul</h1>
 <h3 align="center">
