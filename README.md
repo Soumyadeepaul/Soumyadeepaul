@@ -14,28 +14,20 @@
 
 <hr/>
 
-<table>
-  <tr>
-    <td align="left" valign="top">
-    
-    <h3>👨‍💻 About Me</h3>
-    
-    🔥 **1000+ GitHub contributions** in the last year  
-    🧠 **700+ DSA problems solved** (C++, Python)  
-    🤖 Interest in **Agentic AI, Deep Learning, System Design**  
-    📈 Focused on **long-term consistency**
+<h3>👨‍💻 About Me</h3>
 
-    </tr>
-    <td align="right" valign="top">
+- 🔥 1000+ GitHub contributions in the last year  
+- 🧠 700+ DSA problems solved (primarily in C++, Python)  
+- 🤖 Strong interest in **Agentic AI, Deep Learning, and System Design**  
+- 📈 Focused on **long-term consistency over short-term hype**
 
-    <img
-      src="https://github.com/Soumyadeepaul/Soumyadeepaul/blob/main/assests/Codetypingbro.png"
-      width="220"
-    />
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github.com/Soumyadeepaul/Soumyadeepaul/blob/main/assests/Codetypingbro.png"
+    width="256"
+    alt="Coding illustration"
+  />
+</p>
 
 
 ---
